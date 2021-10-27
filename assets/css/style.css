@@ -115,7 +115,7 @@ footer a {
   .hero-form {
       background-color: #fce138;
       padding: 20px;
-      width: 40%;
+      width: 600px;
       color: #024e76;
       border: solid 3px #024e76;
       position: absolute;
@@ -152,25 +152,6 @@ footer a {
       padding: 10px 20px;
       font-size: 16px;
       border: none;
-  }
-
-  .hero-text {
-      display: block;
-      width: 50%;
-      text-align: right;
-      right: 140px;
-      padding: 20px;
-  }
-
-  .hero-text h2 {
-      color: #fce138;
-      font-size: 55px;
-      font-style: italic;
-  }
-
-  .hero-text p {
-      color: #ffffff;
-      margin-left: 50px;
   }
   /* Hero styling end */
 
