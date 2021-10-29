@@ -45,7 +45,7 @@ section {
 /* header styling start */
 header {
     padding: 20px 35px;
-    background: #39a6b2;
+    background-color: #39a6b2;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -54,7 +54,6 @@ header {
     top: 0;
     background-image: url("../images/hero-bg.jpg");
     background-size: cover;
-    background-position: center;
     background-attachment: fixed;
     background-position: 80%;
 
@@ -86,7 +85,7 @@ header nav ul {
 }
 
 header nav ul li a {
-    margin: 10px 15px;
+    padding: 10px 15px;
     font-weight: lighter;
     font-size: 1.55vw;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
@@ -158,7 +157,7 @@ footer a {
   }
 
   .hero-form {
-      background-color: rgba(252, 225, 56, .5);
+      background-color: rgba(252, 225, 56, .8);
       padding: 20px;
       color: #024e76;
       border: solid 3px #024e76;
